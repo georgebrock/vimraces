@@ -1,0 +1,3 @@
+#!/bin/sh
+
+vim -u NONE $1.{before,after} -c "next|prev|source ../vimraces.vim|RaceTo $1.after"
