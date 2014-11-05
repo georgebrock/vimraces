@@ -1,0 +1,4 @@
+#doge { font-family: 'Comic Sans', sans-serif; font-weight: bold; font-size: 20px; }
+#doge .wow { color: pink; font-size: 1.4em; }
+#doge .nice { color: yellow; font-size: 2em; }
+#doge .so { color: lime; }

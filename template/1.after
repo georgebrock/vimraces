@@ -1,0 +1,11 @@
+[1, 2, 3].map do |x|
+  x + 1
+end
+
+['George', 'Mike'].map do |name|
+  { :name => name }
+end
+
+[1, 2, 3].inject(0) do |sum, x|
+  sum + x
+end

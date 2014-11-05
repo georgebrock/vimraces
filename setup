@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rm -rf player1 player2
+cp -R template player1
+cp -R template player2

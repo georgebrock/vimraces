@@ -1,0 +1,6 @@
+Meetup.where(:organiser => 'Mike').count
+languages = {
+  :ruby => 'awesome',
+  :python => 'awesome'
+}
+meetup_organisers = { :vim => 'George', :haskell => 'Mikael', 'C++' => nil }
